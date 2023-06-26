@@ -1,7 +1,5 @@
 import sys
 import random as rd
-
-sys.path.append(r'c:\users\shipt\appdata\roaming\python\python38\site-packages')
 from english_words import english_words_lower_alpha_set as words
 
 code = {1: '', 2: '', 3: '', 4: '', 5: '', 6: '', 7: 'l', 8: '', 9: 'p', 10: '', 11: '', 12: '', 13: '', 14: '', 15: '',
